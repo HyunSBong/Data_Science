@@ -1,5 +1,5 @@
 # Data_Science
-An awesome Data Science repository to learn and apply.
+An awesome Data Science repository to learn and apply..
 
 **Pandas Cheat Sheet**
 
